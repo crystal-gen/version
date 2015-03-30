@@ -1,0 +1,7 @@
+name: version-test
+version: 0.1.0
+description: version test
+
+generators:
+  version:
+    version: latest
